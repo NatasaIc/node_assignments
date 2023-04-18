@@ -1,7 +1,6 @@
 {
   "name": "assignment_6",
   "version": "1.0.0",
-  "type": "module",
   "description": "Installera `ts-node` för att kunna köra ts-node istället för node för ts-filer.",
   "main": "index.js",
   "scripts": {
@@ -17,6 +16,7 @@
     "node": "^19.8.1",
     "sqlite3": "^5.1.6",
     "ts-node": "^10.9.1",
+    "typescript": "^5.0.4",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
